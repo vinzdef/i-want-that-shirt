@@ -1,7 +1,5 @@
 #! /bin/bash
 
-git init
-touch i-want-that-shirt.please
 $var = 1
 while [[ true ]]; do
 	echo $var > i-want-that-shirt.please
