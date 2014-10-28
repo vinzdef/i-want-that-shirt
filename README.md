@@ -7,10 +7,10 @@ Yes, we started doing this just for this awesome shirt
 http://hacktoberfest.digitalocean.com/
 
 
-The program is really trivial,
+The program is really trivial:
 
 + writes a number in a file, 
-+ commits changes, 
++ commits changes,
 + repeats __n__ times, 
 ____
   
