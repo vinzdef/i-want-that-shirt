@@ -1,10 +1,10 @@
 #! /bin/bash
 
-var = 5082
+VAR = 5082
 while [[ true ]]; do
-	echo $var > i-want-that-shirt.please
+	echo $VAR > i-want-that-shirt.please
 	git add .
-	git commit -m "Commit no: $var"
+	git commit -m "Commit no: $VAR"
 	git push origin master
 	((var++))
 done
