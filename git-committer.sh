@@ -1,6 +1,6 @@
 #! /bin/bash
 
-VAR=40519
+VAR=40620
 while [[ true ]]; do
 	for i in {1..100}; do
 		echo $VAR > i-want-that-shirt.please
