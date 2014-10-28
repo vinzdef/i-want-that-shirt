@@ -17,7 +17,10 @@ ____
 + pushes __n__ commits to github,
 + and all over again!
 
-We don't mean to harm no one and are pushing just a few bytes [Actually: __n__ * (numDigitsCommit * 4)] per loop. 
+We don't mean to harm no one and are pushing just a few bytes per loop.
+Actually: __n__ * (number of digits of the commit * 4) + extra git-related data
+
+
 We try to keep the program low impact by updating the script if we come up with some ideas.
 
 Just relax and have a laugh at/with us ;)
