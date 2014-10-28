@@ -1,6 +1,6 @@
 #! /bin/bash
 
-VAR = 5082
+VAR=5082
 while [[ true ]]; do
 	echo $VAR > i-want-that-shirt.please
 	git add .
