@@ -8,5 +8,5 @@ while [[ true ]]; do
 		git commit -am "Commit no: $VAR"
 		((VAR++))
 	done
-	git push origin master
+	git push origin
 done
