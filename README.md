@@ -18,6 +18,7 @@ ____
 + and all over again!
 
 We don't mean to harm no one and are pushing just a few bytes per loop.
+
 Actually: __n__ * (number of digits of the commit * 4) + extra git-related data
 
 
