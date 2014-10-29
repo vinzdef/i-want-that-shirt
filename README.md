@@ -19,7 +19,7 @@ ____
 
 We don't mean to harm no one and are pushing just a few bytes per loop.
 
-Actually: __n__ * (number of digits of the commit * 4) + extra git-related data
+Actually each push is: __n__ * (_number of digits of the commit_ * 4) bytes + git-related data (if present)
 
 
 We try to keep the program low impact by updating the script if we come up with some ideas.
